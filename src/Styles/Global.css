@@ -1,0 +1,63 @@
+#Home {
+    background-image: url("/src/JagaKrabbor.jpg");
+    background-position: left 90% bottom 56%;
+    height: 300px;
+    margin-bottom: 7px;
+}
+
+p {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+#Skills {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#Timeline {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+#References {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+#ContactMe {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1350px) {
+    #Home {
+        background-position: left 80% bottom 57%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    #Home {
+        background-position: left 70% bottom 57%;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    #Home {
+        background-position: left 65% bottom 57%;
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 860px) {
+    #Home {
+        background-position: left 57% bottom 57%;
+        height: 200px;
+    }
+}
+
+#AboutMe {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,21 @@
+#pontusKamark {
+    height: 400px;
+    width: 40%;
+    left: 28%
+}
+
+@media only screen and (max-width: 1200px) {
+    #pontusKamark {
+        width: 60%;
+        height: 500px;
+        left: 22%
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #pontusKamark {
+        width: 80%;
+        height: 500px;
+        left: 12%;
+    }
+}

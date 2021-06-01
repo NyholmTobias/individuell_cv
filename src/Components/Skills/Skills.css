@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+
+button.buttonContainer {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.skillContainer {
+    width: 100%;
+    border: black solid 1px;
+    border-radius: 10px;
+}
+
+.skill {
+    text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 1px;
+    color: white;
+    border-radius: 10px;
+}
+
+.C {
+    width: 85%;
+    background-color: teal;
+}
+
+.Java {
+    width: 20%;
+    background-color: teal;
+}
+
+.JavaScript {
+    width: 40%;
+    background-color: teal;
+}
+
+.SSMS {
+    width: 80%;
+    background-color: teal;
+}
+
+.SQL {
+    width: 80%;
+    background-color: teal;
+}
+
+.EF {
+    width: 75%;
+    background-color: teal;
+}
+
+.Dapper {
+    width: 90%;
+    background-color: teal;
+}
+
+.NET {
+    width: 65%;
+    background-color: teal;
+}
+
+.MVC {
+    width: 70%;
+    background-color: teal;
+}
+
+.React {
+    width: 60%;
+    background-color: teal;
+}
+
+.URL {
+    width: 100%;
+    background-color: teal;
+}
+
