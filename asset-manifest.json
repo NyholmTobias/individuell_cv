@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/individuell_cv/static/css/main.bbf882ec.chunk.css",
+    "main.css": "/individuell_cv/static/css/main.bce62fa2.chunk.css",
     "main.js": "/individuell_cv/static/js/main.cb88d749.chunk.js",
     "main.js.map": "/individuell_cv/static/js/main.cb88d749.chunk.js.map",
     "runtime-main.js": "/individuell_cv/static/js/runtime-main.fd64321b.js",
@@ -10,7 +10,7 @@
     "static/js/2.de83ed6d.chunk.js.map": "/individuell_cv/static/js/2.de83ed6d.chunk.js.map",
     "index.html": "/individuell_cv/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/individuell_cv/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.bbf882ec.chunk.css.map": "/individuell_cv/static/css/main.bbf882ec.chunk.css.map",
+    "static/css/main.bce62fa2.chunk.css.map": "/individuell_cv/static/css/main.bce62fa2.chunk.css.map",
     "static/js/2.de83ed6d.chunk.js.LICENSE.txt": "/individuell_cv/static/js/2.de83ed6d.chunk.js.LICENSE.txt",
     "static/media/Global.css": "/individuell_cv/static/media/JagaKrabbor.7c16603f.jpg",
     "static/media/PontusKamarkRef.baa4ea5d.png": "/individuell_cv/static/media/PontusKamarkRef.baa4ea5d.png",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.fd64321b.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.de83ed6d.chunk.js",
-    "static/css/main.bbf882ec.chunk.css",
+    "static/css/main.bce62fa2.chunk.css",
     "static/js/main.cb88d749.chunk.js"
   ]
 }
