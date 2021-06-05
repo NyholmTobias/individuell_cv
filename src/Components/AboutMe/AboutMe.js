@@ -26,7 +26,7 @@ const AboutMe = () => {
             </ul>
             <ul className="col-xl-6 col-l-6 col-md-12 col-sm-12 col-xs-12 float-left">
                 <li><p><b>Interests:</b> Computers, games, music, cooking, training, diving.</p></li>
-                <li><p><b>Life goals:</b> House by the sea. Become project leader. Run my own company. Get a dog when i retire.</p></li>
+                <li><p><b>Life Goals:</b> House by the sea. Work abroad. Run my own company. Get a dog when i retire.</p></li>
                 <li><p><b>Part Time Occupation:</b><br/> Junior developer at Centiro. Graphical purchaser at Tingstad.</p></li>
             </ul>
         </div>

@@ -24,7 +24,7 @@ const Timeline = () => {
                     <div className="contentTL">
                         <h2>2012(Summer)-2015(spring)</h2>
                         <h4 className="text-left">The "Way Finder Era"</h4>
-                        <p className="text-left">In this time of my life had a bunch of jobs trying to find out what i want to do life. I was working in four different warehouses, was swaping tires in a tire workshop, and studied music production for six months while working as a soundtechnician on the weekends.</p>
+                        <p className="text-left">In this time of my life had a bunch of jobs trying to find out what i want to do with life. I was working in four different warehouses, was swaping tires in a tire workshop, and studied music production for six months while working as a soundtechnician on the weekends.</p>
                     </div>
                 </div>
                 <div className="containerTL right">
@@ -45,14 +45,14 @@ const Timeline = () => {
                     <div className="contentTL">
                         <h2>2017(May)-Present</h2>
                         <h4 className="text-left">Tingstad Papper AB - Graphical purchaser</h4>
-                        <p className="text-left">After working with customer service for half a year i was asked to start working at the graphical appartment as a purchaser. My main task is to purchase printed items from an array of over 500 suppliers and make sure that the orders come to us at the set date with the right quantity and for the right price. This includes doing both strategical and operational purchasing, writing offers, ask for offers and to monitor deliveries. Apart from my regular assignments i got the chance to work with several differnt projects mostly to improve the workflow of the graphical appartment but also to help calculate the complaint costs of the whole company. I still work there on holidays or when there is less to do in school.</p>
+                        <p className="text-left">After working with customer service for half a year i was asked to start working at the graphical department as a purchaser. My main task is to purchase printed items from an array of over 500 suppliers located all over the world and make sure that the orders come to us at the set date, with the right quantities and for the right price. This includes doing both strategical and operational purchasing, writing offers, ask for offers and to monitor deliveries. Apart from my regular assignments i got the chance to work with several differnt projects mostly to improve the workflow of the graphical department but also to help calculate and moderate the complaint costs of the whole company. I still work there on holidays or when there is less to do in school.</p>
                     </div>
                 </div>
                 <div className="containerTL left">
                     <div className="contentTL">
                         <h2>2020-2022(June)</h2>
                         <h4 className="text-left">NBI-/Handelsakademin - System Development, Object Oriented Programing</h4>
-                        <p className="text-left">Altough I learnt alot at Tingstad and got the chance to try many differnt think, I felt that I hit a plateau and I didnt want to work with those kind of products any more. I wanted to work more with projects and to get more logicaly challenging assignments. So i decided to chase one of my life time interests and started to study System Development. It's a broad education that touches most of the aspects of System Development. The main language has been C#, but we have gone over more (see skills section).</p>
+                        <p className="text-left">Altough I learnt alot at Tingstad and got the chance to try many differnt things, I eventually felt that I hit a plateau and I didnt want to work with those kind of products anymore. I wanted to work more with projects and to get more logically challenging assignments. So i decided to chase one of my life time interests and started to study System Development. It's a broad education that touches most of the aspects of System Development. The main language has been C#, but we have gone over more (see skills section).</p>
                     </div>
                 </div>
                 <div className="containerTL right">

@@ -12,7 +12,7 @@ const Header = () => {
                 <div className="navbar-collapse collapse d-md-inline-flex justify-content-between" id="collapseNavbar">
                     <ul className="navbar-nav flex-grow-1">
                         <li>
-                            <a href="#Home" className="nav-link scrolloto text-dark">
+                            <a href="#Home" data-cy="HomeButton" className="nav-link scrolloto text-dark">
                                 <h6 className="tab">Home</h6></a>
                         </li>
                         <li>
@@ -22,6 +22,10 @@ const Header = () => {
                         <li>
                             <a href="#Skills" className="nav-link scrolloto text-dark">
                                 <h6 className="tab">Skills</h6></a>
+                        </li>
+                        <li>
+                            <a href="#Repos" className="nav-link scrolloto text-dark">
+                                <h6 className="tab">GitHub</h6></a>
                         </li>
                         <li>
                             <a href="#Timeline" className="nav-link scrolloto text-dark">

@@ -23,7 +23,7 @@ button.buttonContainer {
 }
 
 .C {
-    width: 85%;
+    width: 95%;
     background-color: teal;
 }
 
@@ -74,6 +74,26 @@ button.buttonContainer {
 
 .URL {
     width: 100%;
+    background-color: teal;
+}
+
+.HTML {
+    width: 85%;
+    background-color: teal;
+}
+
+.CSS {
+    width: 75%;
+    background-color: teal;
+}
+
+.JavaScriptFront {
+    width: 55%;
+    background-color: teal;
+}
+
+.Bootstrap {
+    width: 90%;
     background-color: teal;
 }
 

@@ -18,6 +18,11 @@ p {
     padding-right: 5%;
 }
 
+#Repos {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
 #Timeline {
     width: 100%;
     margin-bottom: 50px;
