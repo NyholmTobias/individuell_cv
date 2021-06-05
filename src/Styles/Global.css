@@ -1,3 +1,7 @@
+* {
+    scroll-padding-top: 70px;
+}
+
 #Home {
     background-image: url("/src/JagaKrabbor.jpg");
     background-position: left 90% bottom 56%;
