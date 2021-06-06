@@ -38,7 +38,7 @@ const Timeline = () => {
                     <div className="contentTL">
                         <h2>2016(December)-2017(May)</h2>
                         <h4 className="text-left">Tingstad Papper AB - Customer Service</h4>
-                        <p className="text-left">While I worked in the warehouse a spot became open at the customer service, I applied for it and got it! Customer service made me learn how to handle customers in a efficient way by using the knowlege I learnt in the warehouse, but also it helped me understand how the workflow is constributed in a major company. </p>
+                        <p className="text-left">While I worked at the warehouse I saw an oppertunity to start working at the office with customer service, so I did. Customer service made me learn how to handle customers in a efficient way by using the knowlege I learnt in the warehouse, but also it helped me understand how the workflow is constributed in a major company. </p>
                     </div>
                 </div>
                 <div className="containerTL right">

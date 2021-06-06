@@ -17,7 +17,6 @@ const App = () => {
     const getMyGithubRepos = async () => {
         const response = await fetch("https://api.github.com/users/NyholmTobias/repos");
         const jsonData = await response.json();
-        console.log(jsonData)
         setReposState(jsonData)
     }
 
