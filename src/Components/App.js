@@ -56,7 +56,7 @@ const App = () => {
                         <Skills />
                     </section>
                     <section id="Repos">
-                        <Repos myRepos={allMyRepos} orgsRepos={allOrgsRepos} eCommerceRepo={ECommerceRepo}/>
+                        { <Repos myRepos={allMyRepos} /*orgsRepos={allOrgsRepos} eCommerceRepo={ECommerceRepo}*//> }
                     </section>
                     <section id="Timeline">
                         <Timeline />
