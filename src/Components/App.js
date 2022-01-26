@@ -11,7 +11,7 @@ import Repos from "./Repos/Repos"
 
 const App = () => {
     const [allMyRepos, setReposState] = useState([])
-    const [allOrgsRepos, setOrgsRepos] = useState([])
+    /*const [allOrgsRepos, setOrgsRepos] = useState([])*/
     const [ECommerceRepo, setECommerceRepo] = useState({})
     
     const getMyGithubRepos = async () => {
@@ -20,12 +20,12 @@ const App = () => {
         setReposState(jsonData)
     }
 
-    const getOrgsGithubRepos = async () => {
-        const response = await fetch("https://api.github.com/orgs/Group4-CVHub/repos");
-        const jsonData = await response.json();
-        console.log(jsonData)
-        setOrgsRepos(jsonData)
-    }
+    // const getOrgsGithubRepos = async () => {
+    //     const response = await fetch("https://api.github.com/orgs/Group4-CVHub/repos");
+    //     const jsonData = await response.json();
+    //     console.log(jsonData)
+    //     setOrgsRepos(jsonData)
+    // }
 
     const getECommerceRepo = async () => {
         const response = await fetch("https://api.github.com/repos/DonOllario/Projektarbete-E-Commerce");
@@ -36,7 +36,7 @@ const App = () => {
 
     useEffect(() => {
         getMyGithubRepos();
-        getOrgsGithubRepos();
+        // getOrgsGithubRepos();
         getECommerceRepo();
     }, [])
 
@@ -56,7 +56,7 @@ const App = () => {
                         <Skills />
                     </section>
                     <section id="Repos">
-                        { <Repos myRepos={allMyRepos} /*orgsRepos={allOrgsRepos} eCommerceRepo={ECommerceRepo}*//> }
+                        { <Repos myRepos={allMyRepos} /*orgsRepos={allOrgsRepos}*/ eCommerceRepo={ECommerceRepo}/> }
                     </section>
                     <section id="Timeline">
                         <Timeline />

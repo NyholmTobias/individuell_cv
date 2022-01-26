@@ -21,13 +21,13 @@ const Repos = (props) => {
                     <a className="btn btn-primary mt-3" key={repo.html_url} href={repo.html_url}>Link to repository</a>
                 </div>
                 )
-            })}
+            })*/}
             
             <div className="col-xl-3 col-l-3 col-m-6 col-s-6 col-xs-6 text-center float-left mb-5">
                 <h5>{props.eCommerceRepo.name}</h5>
                 <p>{props.eCommerceRepo.description}</p>
                 <a className="btn btn-primary mt-3" href={props.eCommerceRepo.html_url}>Link to repository</a>
-            </div> */}
+            </div>
         </div>
     )
 }
